@@ -7,5 +7,4 @@ barh(x, tempo)
 yticks(x, ('Cenário 1', 'Cenário 2', 'Cenário 3', 'Cenário 4'))
 
 xlabel('Tempo (em min)')
-ylabel('Cenários de teste')
 title('Tempos de execução de testes')
